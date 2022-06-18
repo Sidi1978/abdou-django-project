@@ -76,9 +76,9 @@ WSGI_APPLICATION = 'disquaire_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 
-        'NAME': 'ab_django',
-        'USER': 'doudou',
-        'PASSWORD': '100',
+        'NAME': 'ab_djtest',
+        'USER': 'pcba',
+        'PASSWORD': '2016',
         'HOST': 'localhost',
         'PORT': '3306',
     }
